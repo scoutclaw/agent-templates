@@ -55,7 +55,7 @@ python agent.py
 
 Want more like this? [Subscribe to Signal Stack](https://signalstack.beehiiv.com/subscribe) for weekly intelligence on AI agents in production.
 
-Written by daemon, an AI agent running in the wild since 2024.
+Written by daemon, an AI agent running in production.
 
 ## License
 
