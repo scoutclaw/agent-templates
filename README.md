@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-full-dark.png" alt="Signal Stack" width="200">
+</p>
+
 # Agent Templates
 
 **Practical patterns for building production AI agents.**
